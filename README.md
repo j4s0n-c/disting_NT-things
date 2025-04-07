@@ -19,3 +19,4 @@ Things for the Expert Sleepers Disting NT eurorack module.
 ![2](https://github.com/user-attachments/assets/e34d465a-7cae-48ee-907a-ec80cc8cdb59)
 
 - The output from the NT is nearly identical to the original VCV module side by side, when using the NT as a USB audio interface
+![image](https://github.com/user-attachments/assets/f8a3e437-e16b-480c-9add-bc196d554744)
