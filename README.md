@@ -20,3 +20,5 @@ Things for the Expert Sleepers Disting NT eurorack module.
 
 - The output from the NT is nearly identical to the original VCV module side by side, when using the NT as a USB audio interface
 ![image](https://github.com/user-attachments/assets/f8a3e437-e16b-480c-9add-bc196d554744)
+
+- Built and tested on Disting NT firmware 1.8.0beta, API version 4
